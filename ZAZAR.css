@@ -1,0 +1,213 @@
+body,ul,h1,h2,h3,p{
+	margin: 0;
+	padding: 0;
+}
+.gwidth{
+	width: 1104px;
+	margin: 0 auto;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+
+
+.top{
+	width: 1502px;
+	height: 110px;
+}
+.top img{
+	margin-top: 40px;
+	position: absolute;
+}
+.top .ul ul{
+	float: right;
+	margin-right: -52px;
+}
+.top .ul ul li{
+	float: left;
+	margin-right: 52px;
+	margin-top: 50px;
+}
+.top .ul ul li a{
+	color: #3B3B3B;
+}
+
+
+.banner{
+	width: 1501px;
+	height: 573px;
+	background: url('images/banner.png');
+	border-right: 1px solid red;
+}
+
+
+.the img{
+	margin-left: 476px;
+}
+.the .left .u1 li{
+	line-height: 60px;
+}
+.the .left .u1 li a p{
+	color: #B7B7B7;
+	font-size: 12px;
+	margin-top: -20px;
+}
+.the .left .u1 li a{
+	color: #555;
+	font-size: 14px;
+}
+.the .left .u1 li .vo{
+	width: 198px;
+}
+.the .left .u1 li .yi,.the .u1 li .er,.the .u1 li .san{
+	height: 1px;
+	background: #E3E1E1;
+	margin-top: -18px;
+}
+.the .left .u1 li .si{
+	color: #B7B7B7;
+	margin-top: -38px;
+	font-size: 12px;
+}
+.the .left .u1 li .yi{
+	width: 192px;
+	margin-left: 240px;
+}
+.the .left .u1 li .er{
+	margin-left: 220px;
+	width: 212px;
+}
+.the .left .u1 li .san{
+	width: 218px;
+	margin-left: 220px;
+}
+.the .left .u2{
+	margin-top: -340px;
+	margin-left: 462px;
+}
+.the .left .u2 li{
+	line-height: 84px;
+}
+.the .left .u2 li .me{
+	margin-top: 4px;
+}
+.the .left .anniu{
+	margin-left: 482px;
+}
+.the .left .anniu .wen{
+	width: 133px;
+	height: 34px;
+	color: #B7B7B7;
+	background: #FFF;
+}
+.the .left .anniu .wen span{
+	margin-left: -460px
+}
+
+.the .left .right{
+	margin-top: -362px;
+	margin-left: 608px;
+}
+
+
+.zs{
+	height: 364px;
+	margin-top: 224px;
+}
+
+.zs .xian{
+	width: 200px;
+	height: 1px;
+	background: #E5E3E3;
+	margin-top: -10px;
+	margin-left: 220px;
+}
+.zs .u1{
+	float: right;
+	margin-right: -12px;
+}
+.zs .u1 li{
+	float: left;
+	margin-right: 12px;
+}
+
+.zs .u2{
+	margin-top: 80px;
+	font-size: 15px;
+	color: #555;
+	margin-left: -60px;
+}
+.zs .u2 li{
+	float: left;
+	width: 231px;
+	margin-left: 60px;
+}
+.zs .u2 li span{
+	float: right;
+}
+.zs .u2 .star{
+	margin-top: 14px;
+}
+
+
+.th{
+	height: 364px;
+	margin-top: 224px;
+}
+.th .xian{
+	width: 200px;
+	height: 1px;
+	background: #E5E3E3;
+	margin-top: -10px;
+	margin-left: 150px;
+}
+.th .tu1{
+	margin-top: 148px;
+}
+.th .tu1 li{
+	float: left;
+}
+.th .tu1 li .th2{
+	margin-top: 176px;
+}
+.th .tu1 li .th3{
+	margin-left: -287px;
+}
+
+
+.booter{
+	width: 1502px;
+	height: 317px;
+	background: #3B3B3B;
+	color: #FFF;
+	margin-top: 406px;
+	font-size: 12px;
+}
+
+
+.neirong{
+	margin-top: -214px;
+	color: #FFF;
+	font-size: 12px;
+}
+.neirong .u1 li a,.neirong .u2 li a,.neirong .u3 li a,.neirong .u4 li a{
+	color: #FFF;
+}
+.neirong .u2,.neirong .u3,.neirong .u4{
+	margin-top: -58px;
+}
+.neirong .u2{
+	margin-left: 290px;
+}
+.neirong .u3{
+	margin-left: 576px;
+}
+.neirong .u4{
+	margin-left: 868px;
+}
+.neirong .u4 .n1{
+	margin-left: -10px;
+}
